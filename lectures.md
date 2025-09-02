@@ -1,6 +1,6 @@
 ---
 layout: lectures
-title: Lectures
+title: 预习材料
 permalink: /lectures/
 ---
-You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+在此下载预习课件与阅读材料

@@ -183,7 +183,7 @@ h1 /* .post-title */ {
 /*    font-size: 42px; */
     letter-spacing: -1px;
     line-height: 1;
-		font-family: 'Titillium Web', sans-serif;
+		font-family: "Helvetica Neue", Arial,  "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
 		color: $title-color;
 
     @include media-query($on-laptop) {
@@ -195,8 +195,9 @@ h1 /* .post-title */ {
     margin-bottom: $spacing-unit;
 
     h2 {
-		font-family: 'Titillium Web', sans-serif;
-	font-weight: 500;
+		font-family: "Helvetica Neue", Arial,  "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
+	font-weight: bold;
+    font-style: normal !important;
 /*        font-size: 32px; */
 
         @include media-query($on-laptop) {
@@ -205,7 +206,8 @@ h1 /* .post-title */ {
     }
 
     h3 {
-		font-style: italic;
+		font-style: normal;
+        font-weight: bold;
 /*        font-size: 26px; */
 
         @include media-query($on-laptop) {
@@ -237,7 +239,7 @@ ul.listing {
 ul.listing li.listing-seperator {
 	padding-top: 15px;
 	font-weight: bold;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: "Helvetica Neue", Arial,  "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
 	font-size: 1.17em;
 }
 
@@ -252,7 +254,7 @@ ul.listing li.listing-item time {
 ul.listing li.listing-item a {
 	color: $clemson-purple;
 	font-weight: 400;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: "Helvetica Neue", Arial,  "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
 }
 
 
@@ -291,7 +293,7 @@ ul#archive li.alt {
 ul#archive li span a {
        color: $clemson-purple;
 	font-weight: bold;
-font-family: 'Titillium Web', sans-serif;
+font-family: "Helvetica Neue", Arial,  "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
 }
 
 
@@ -303,7 +305,7 @@ ul#archive li span.postlower {
 ul#archive li span.postlower a {
 	color: #07c;
 	font-weight: normal;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: "Helvetica Neue", Arial,  "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
 
 }
 
