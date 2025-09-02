@@ -4,7 +4,7 @@ course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na
 course_semester: "Fall 1998"
 
 baseurl: "/FeldsparAta-academicwebsitetp" # the subpath of your site, e.g. /blog/ original: /jekyll-course-website-template
-url: "http://FeldsparAta.github.io/" # the base hostname & protocol for your site
+url: "http://feldsparata.github.io/" # the base hostname & protocol for your site
 
 schoolname: "College of Life Sciences, Tsinghua University"
 schoolurl: "https://life.tsinghua.edu.cn/"
