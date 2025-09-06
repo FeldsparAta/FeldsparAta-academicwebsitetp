@@ -1,11 +1,9 @@
 ---
 type: assignment
-title: '实验15 胰岛素、胰高血糖素、肾上腺素对血糖的影响'
+title: '实验10 胰岛素对小鼠血糖的影响'
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
 ---
-## 实验15  胰岛素、胰高血糖素、肾上腺素对血糖的影响
-
 ### 目录
 
 - [实验目的与要求](#实验目的与要求)

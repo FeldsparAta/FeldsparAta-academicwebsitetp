@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
+title: 实验设计指导
 permalink: /project/
 ---
-Describe Final project.
+本课程期间，每组都需自主设计并开展一项研究。
