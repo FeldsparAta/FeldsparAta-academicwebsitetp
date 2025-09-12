@@ -1,6 +1,6 @@
 # Site settings
 course_name: 动物生理学实验
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: "动物生理学实验为生命科学相关专业本科生的专业选修课，内容涵盖神经与肌肉、循环、呼吸、消化、中枢神经、感觉、内分泌等主要系统或器官，实验对象包括两栖类动物牛蛙、哺乳类动物家兔和小鼠、人体。旨在通过建立动物模型、设置实验条件、记录分析实验结果的教学过程，让学生了解生理学研究中常用的仪器设备与软件的使用及其工作原理，掌握基本的生理学实验技术与方法。通过实验设计环节，让学生根据自己的兴趣提出问题、分析问题并解决问题，在此过程中掌握科学研究的基本思路和方法，培养严谨的科学素养、创新意识和良好的合作精神。"
 course_semester: "Fall 1998"
 
 baseurl: "/FeldsparAta-academicwebsitetp" 
