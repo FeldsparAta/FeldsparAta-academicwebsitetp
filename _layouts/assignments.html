@@ -10,7 +10,11 @@ layout: page
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 <a title="在线查看并下载pdf" href="{{ asg.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
 {% if asg.attachment %}
-&nbsp; <a title="下载zip附件" href="{{ asg.attachment | prepend: site.baseurl }}"><i class="fas fa-file-archive"></i></a>
+&nbsp; <a title="下载zip附件" href="{% if asg.attachment contains 'http' %}
+    {{ asg.attachment }}
+  {% else %}
+    {{ asg.attachment | prepend: site.baseurl }}
+  {% endif %}"><i class="fas fa-file-archive"></i></a>
 {% endif %}
 </strong> 
       </li>

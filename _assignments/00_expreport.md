@@ -2,7 +2,7 @@
 type: assignment
 title: '实验报告写作指导'
 pdf: /_assets/pdf-ppts/tricked.pdf
-attachment: /_assets/zips/tmp.txt
+attachment: https://www.google.com
 ---
 本篇的相关资源为全部实验报告示例。
 

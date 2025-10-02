@@ -12,7 +12,11 @@ title: page.title
   <div>
     <p style="font-weight: bold">点击下载
       {% if page.attachment %}
-      [<a href="{{ page.attachment | prepend: site.baseurl }}">相关资源</a>]
+      [<a href="{% if page.attachment contains 'http' %}
+          {{ page.attachment }}
+        {% else %}
+          {{ page.attachment | prepend: site.baseurl }}
+        {% endif %}">相关资源</a>]
       {% endif %}
     </p>
 
