@@ -2,9 +2,9 @@
 type: assignment
 title: '实验11-13 人体实验1'
 pdf: /_assets/pdf-ppts/Exp11-13.pdf
-attachment: /_assets/zips/tmp.txt
+attachment: https://cloud.tsinghua.edu.cn/f/cec7b8f48ae94bf0a13a/
 ---
-本篇下载资源为本实验相关实验操作教学视频。
+本篇下载资源为本实验优秀实验报告示例。
 
 ***【重要说明】人体生理实验仅为教学目的，实验中取得的记录不能作为诊断依据。如有医疗需求，请去咨询专业医务人员。***
 

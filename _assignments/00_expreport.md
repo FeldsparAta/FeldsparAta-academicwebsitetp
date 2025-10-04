@@ -2,7 +2,7 @@
 type: assignment
 title: '实验报告写作指导'
 pdf: /_assets/pdf-ppts/tricked.pdf
-attachment: https://www.google.com
+attachment: https://cloud.tsinghua.edu.cn/f/522c445b7976434c8493/
 ---
 本篇的相关资源为全部实验报告示例。
 

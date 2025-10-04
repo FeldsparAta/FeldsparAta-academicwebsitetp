@@ -2,9 +2,9 @@
 type: assignment
 title: '实验4-6 牛蛙心脏实验'
 pdf: /_assets/pdf-ppts/Exp4-6.pdf
-attachment: /_assets/zips/tmp.txt
+attachment: https://cloud.tsinghua.edu.cn/f/4ca870bfea59415086a6/
 ---
-本篇下载资源为本实验相关实验操作教学视频。
+本篇下载资源为本实验优秀实验报告示例。
 
 **目录**
 
