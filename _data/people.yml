@@ -1,17 +1,17 @@
 instructors:
   - name: 魏香
-    profile_pic: /_images/pp/dumbledore.jpg
+    profile_pic: /_assets/images/weixiang.jpg
     webpage: about:blank
   
 teaching_assistants:
   - name: 吕宜时
-    profile_pic: /_images/pp/potter.jpg
+    profile_pic: /_assets/images/lys.jpg
     webpage: about:blank
 
   - name: 赵怡婷
-    profile_pic: /_images/pp/granger.jpg
+    profile_pic: /_assets/images/zyt.jpg
     webpage: about:blank
 
   - name: 吴瑾凯
-    profile_pic: /_images/pp/weasley.jpg
+    profile_pic: /_assets/images/wjk.jpg
     webpage: about:blank
